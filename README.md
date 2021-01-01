@@ -22,3 +22,31 @@
 - **Web Server :** It can be a Software or Hardware (a computer/machine) that runs websites, it just takes your button click and deliver it to the server (the code you write) and get the response back to you (who clicked that button)
 
 - **Computing :** Computing is any activity that uses computers to manage, process, and communicate information. It includes development of both hardware and software.
+
+- **API :** its nothing but a web server (code your write e.g: using Nodejs, Python...) that respond to user requests (e.g: creating an account) with Fail or Success messages.
+
+----
+
+now lets go to "Programming Fancy words"
+
+## `js`
+
+- **Closures :** Its just a function that returns a function.
+
+- **Single-threaded :** means the execution of single code instruction at a time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
