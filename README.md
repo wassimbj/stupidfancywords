@@ -19,7 +19,7 @@
 
 - **Stream / Data stream... :** simply means data being sent somewhere (e.g, to a server) over time. A stream can be thought of as items on a conveyor belt being processed one at a time rather than in large batches.
 
-- **Server :** its just a machine, a computer like yours that have an OS, a RAM a CPU... that saves your source code (files) and runs it.
+- **Server :** its just a machine, a computer like yours that have an OS, a RAM a CPU... that stores your source code (files) and runs it.
 
 - **Client :** client in software has many meanings, but in general it means the consumer, it can be the browser (wich is you) it can be any thing that consume or use a software.
 
