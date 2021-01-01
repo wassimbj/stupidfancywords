@@ -1,6 +1,8 @@
 # zifancywords
 *Explaining the fancy words in software industry*
 
+## `Global`
+
 - **Fire/Call/Trigger :** you will see these words a lot and everywhere, it just means execute a function.
 
 - **Compile :** Compiler transforms code written in a high-level programming language into the machine code, at once (all code in a file), before program runs.
@@ -42,6 +44,8 @@ now lets go to "Programming Fancy words"
 - **Event Loop :**
 
 - **Execution Context :**
+
+- **Execution Stack :**
 
 - **Callbacks :**
 
