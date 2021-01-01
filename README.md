@@ -27,7 +27,9 @@
 
 - **Computing :** Computing is any activity that uses computers to manage, process, and communicate information. It includes development of both hardware and software.
 
-- **API :** its nothing but a web server (code your write e.g: using Nodejs, Python...) that respond to user requests (e.g: creating an account) with Fail or Success messages.
+- **API :** its nothing but a web server (code you write e.g: using Nodejs, Python...) that respond to user requests (e.g: creating an account) with Fail or Success messages.
+
+- **Vanilla / Pure :** its just refers to the pure/first programming language, for example Node.js is written in vanilla javascript.
 
 ----
 
@@ -61,7 +63,7 @@ now lets go to "Programming Fancy words"
 
 - **Immediately Invoked Functions (IIFEs) :**
 
-- 
+- **Anonymous :**
 
 
 
