@@ -1,2 +1,2 @@
-# zifancywords
-Explaining the fancy words in software industry
+### zifancywords
+*Explaining the fancy words in software industry*
