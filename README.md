@@ -31,9 +31,10 @@
 
 - **Vanilla / Pure :** its just refers to the pure/first programming language, for example Node.js is written in vanilla javascript.
 
+- **Anonymous :** its just a function that doesn't have a name, e.g: ``` const foo = function() { ... } ```
+
 ----
 
-now lets go to "Programming Fancy words"
 
 ## `js`
 
@@ -63,9 +64,8 @@ now lets go to "Programming Fancy words"
 
 - **Immediately Invoked Functions (IIFEs) :**
 
-- **Anonymous :**
 
-
+## `GO`
 
 
 
