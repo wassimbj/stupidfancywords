@@ -21,3 +21,4 @@
 
 - **Web Server :** It can be a Software or Hardware (a computer/machine) that runs websites, it just takes your button click and deliver it to the server (the code you write) and get the response back to you (who clicked that button)
 
+- **Computing :** Computing is any activity that uses computers to manage, process, and communicate information. It includes development of both hardware and software.
