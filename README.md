@@ -5,7 +5,9 @@
 
 - **Compile :** Compiler transforms code written in a high-level programming language into the machine code, at once (all code in a file), before program runs.
 
-- **Interpreter :** Coverts each high-level program statement (instruction/code block... whatever), one by one, into the machine code, during program run.
+- **Interpreter :** Converts each high-level program statement (instruction/code block... whatever), one by one, into the machine code, during program run.
+
+- **Transpile :** Convert the syntax of one programming language to another. That's it.
 
 - **High-level programming :** its simply a programming language that is human readable and easy to write, read and maintain. Examples of high level languages are C, C++, Java, Python, etc.
 
@@ -35,9 +37,27 @@ now lets go to "Programming Fancy words"
 
 - **Single-threaded :** means the execution of single code instruction at a time.
 
+- **Hoisting :**
 
+- **Event Loop :**
 
+- **Execution Context :**
 
+- **Callbacks :**
+
+- **Scope :**
+
+- **Synchronous :**
+
+- **Asynchronous :**
+
+- **Primitve Types :**
+
+- **Functional Programming :**
+
+- **Immediately Invoked Functions (IIFEs) :**
+
+- 
 
 
 
