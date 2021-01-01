@@ -3,7 +3,7 @@
 
 - **Fire/Call/Trigger :** you will see these words a lot and everywhere, it just means execute a function.
 
-- **Compile :** Compiler transforms code written in a high-level programming language into the machine code, at once, before program runs.
+- **Compile :** Compiler transforms code written in a high-level programming language into the machine code, at once (all code in a file), before program runs.
 
 - **Interpreter :** Coverts each high-level program statement (instruction/code block... whatever), one by one, into the machine code, during program run.
 
