@@ -19,6 +19,8 @@
 
 - **Stream / Data stream... :** simply means data being sent somewhere (e.g, to a server) over time. A stream can be thought of as items on a conveyor belt being processed one at a time rather than in large batches.
 
+- **Buffer :** A buffer contains data that is stored for a short amount of time, typically in the computer's memory (RAM). The purpose of a buffer is to hold data right before it is used. For example, when you download an audio or video file from the Internet, it may load the first 20% of it into a buffer and then begin to play.
+
 - **Server :** its just a machine, a computer like yours that have an OS, a RAM a CPU... that stores your source code (files) and runs it.
 
 - **Client :** client in software has many meanings, but in general it means the consumer, it can be the browser (wich is you) it can be any thing that consume or use a software.
