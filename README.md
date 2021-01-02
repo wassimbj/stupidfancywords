@@ -29,7 +29,7 @@
 
 - **API :** its nothing but a web server (code you write e.g: using Nodejs, Python...) that respond to user requests (e.g: creating an account) with Fail or Success messages.
 
-- **Vanilla / Pure :** its just refers to the pure/first programming language, for example Node.js is written in vanilla javascript.
+- **Vanilla / Pure :** its just refers to the pure/parent programming language.
 
 - **Anonymous :** its just a function that doesn't have a name, e.g: ``` const foo = function() { ... } ```, python example ``` bar = lambda x, y : ... ``` 
 
