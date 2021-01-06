@@ -67,11 +67,9 @@
 - **Immediately Invoked Functions (IIFEs) :**
 
 
-## `GO`
-
-- **Concurrency :**
 
 
-
-
+## TODO
+- [ ] Finish the JS fancy words  
+- [ ] Add more fancy words
 
