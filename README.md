@@ -3,7 +3,7 @@
 
 ## `Uncategorized`
 
-- **Fire/Call/Trigger :** you will see these words a lot and everywhere, it just means execute a function.
+- **Fire/Call/Trigger/Invoke :** you will see these words a lot and everywhere, it just means execute/run a function.
 
 - **Compile :** Compiler transforms code written in a high-level programming language into the machine code, at once (all code in a file), before program runs.
 
@@ -44,17 +44,29 @@
 
 - **Single-threaded :** means the execution of single code instruction at a time.
 
-- **Hoisting :**
+- **Hoisting :** Its just a memory space that the javascript engine sets up before executing your code. it sets up a memory space for your variables and functions, thats what explains when you call your function and then actually create it works, its already there in memory and javascript recognize it when it sees it, and for variables they are set to "undefined".
 
-- **Event Loop :**
+- **Event Loop :** it will take some more words to explain, here is a [good article for you to read](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
 
-- **Execution Context :**
+- **Execution Context :** every js code you write (functions) javascript engine creates an execution context for it, Its a wrapper to help manage the code that is running. it contains your runnning code (e.g: functions) and also things beyond what you wrote, like the "this object" and the global object and all that stuff that the javascript engine create for you.
 
-- **Execution Stack :**
+- **Execution Stack :** Its just a stack 📚 of execution contexts, and which ever one at the top its the one that is currently running.
 
-- **Callbacks :**
+- **Callback :** its just a function that is used as a parameter in some function.
 
-- **Scope :**
+- **Scope :** is where a variable available in your code. means where its defined and where you can use it.
+e.g:
+```js
+function greet(){
+  let a = "hello";
+  
+  return a;
+}
+
+console.log(greet())
+console.log(a);
+// if you run this code, you will get an error, cause "a" is not defined.
+```
 
 - **Synchronous :**
 
@@ -72,4 +84,5 @@
 ## TODO
 - [ ] Finish the JS fancy words  
 - [ ] Add more fancy words
+- [ ] Add examples
 
