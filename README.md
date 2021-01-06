@@ -1,4 +1,4 @@
-# zifancywords
+# Stupid Fancy Words
 *Explaining the fancy words in software industry*
 
 ## `Global`
