@@ -104,6 +104,10 @@ console.log(a);
   4. **Durability :** means that once a transaction is complete, it is guaranteed that all of the changes have been recorded to a durable medium (such as a hard disk), and the fact that the transaction has been completed is likewise recorded.
 
 
+## `Front End`
+
+- **Lazy loading :** is a technique that delays loading resources (images, videos, ...) until they are needed. A common example is a webpage that defers loading images until the user scrolls to their location within the page.
+  Lazy loading videos is also popular on the web. It is especially effective since video files are typically the largest resources loaded within a webpage. Instead of sending the entire video to a client's device, the web server only sends small portions of the video while the user is watching it. Popular video sharing websites like YouTube and Vimeo use lazy loading.
 
 
 ## TODO
