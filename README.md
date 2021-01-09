@@ -21,6 +21,8 @@
 
 - **Buffer :** A buffer contains data that is stored for a short amount of time, typically in the computer's memory (RAM). The purpose of a buffer is to hold data right before it is used. For example, when you download an audio or video file from the Internet, it may load the first 20% of it into a buffer and then begin to play.
 
+- **Pub/Sub :** Publish/subscribe messaging, or pub/sub messaging, is a form of asynchronous service-to-service (e.g: user and user cart) communication. for example service A, B, C subscribe to a topic (like a youtube channel, the channel is the topic) and when data is published to that topic the subscribers will get that data immediately. think of it like a youtube channel when the channel publish a new video the subscribers will be notified. 
+
 - **Server :** its just a machine, a computer like yours that have an OS, a RAM a CPU... that stores your source code (files) and runs it.
 
 - **Client :** client in software has many meanings, but in general it means the consumer, it can be the browser (wich is you) it can be any thing that consume or use a software.
@@ -77,6 +79,29 @@ console.log(a);
 - **Functional Programming :**
 
 - **Immediately Invoked Functions (IIFEs) :**
+
+## `Databases`
+
+- **ACID-compliant :** Stands for "Atomicity, Consistency, Isolation, Durability." The ACID acronym defines four characteristics a database must have to ensure data integrity  
+
+  0. **Transaction :** A transaction is a mechanism that allows you to mark a group of operations ***(sql queries)*** and execute them in such a way that either they all execute (commit), or the system state will be as if they have not started to execute at all (rollback).
+  e.g:
+  ```sql
+  -- BEGIN TRANSACTION
+  -- transfer $100 for example from one account to another
+    UPDATE users SET balance = balance + 100 WHERE user_id = 5;
+    UPDATE users SET balance = balance - 100 WHERE user_id = 2;
+    -- SELECT * FROM users WHERE user_id = 2;
+    -- ...
+  -- END TRANSACTION
+  ``` 
+  1. **Atomicity :** Atomicity guarantees each transaction is an "all-or-nothing" event. In other words, it succeeds or fails completely. Atomic operations prevent data corruption by disallowing partial transactions. If an operation cannot be completed, it is "rolled back" to the previous state, as if it never happened.
+
+  2. **Consistency :** Consistency means that you guarantee that your data will be consistent; none of the constraints you have on related data will ever be violated.
+
+  3. **Isolation :** Isolation means that one transaction cannot read data from another transaction that is not yet completed. If two transactions are executing concurrently, each one will see the world as if they were executing sequentially, and if one needs to read data that is written by another, it will have to wait until the other is finished.
+
+  4. **Durability :** means that once a transaction is complete, it is guaranteed that all of the changes have been recorded to a durable medium (such as a hard disk), and the fact that the transaction has been completed is likewise recorded.
 
 
 
