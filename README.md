@@ -1,7 +1,7 @@
 # Stupid Fancy Words
 *Explaining the fancy words in software industry*
 
-## `Uncategorized`
+## `General`
 
 - **Fire/Call/Trigger/Invoke :** you will see these words a lot and everywhere, it just means execute/run a function.
 
