@@ -29,15 +29,20 @@
 
 - **Web Server :** It can be a Software or Hardware (a computer/machine) that runs websites, it just takes your button click and deliver it to the server (the code you write) and get the response back to you (who clicked that button)
 
-- **Computing :** Computing is any activity that uses computers to manage, process, and communicate information. It includes development of both hardware and software.
-
 - **API :** its nothing but a web server (code you write e.g: using Nodejs, Python...) that respond to user requests (e.g: creating an account) with Fail or Success messages.
 
 - **Vanilla / Pure :** its just refers to the pure/parent programming language.
 
-- **Anonymous :** its just a function that doesn't have a name, e.g: ``` const foo = function() { ... } ```, python example ``` bar = lambda x, y : ... ``` 
+- **Anonymous :** its just a function that doesn't have a name, e.g: ``` const foo = function() { ... } ```, python example ``` bar = lambda x, y : ... ```
 
 ----
+
+## `Computing`
+
+- **Computing :** Computing is any activity that uses computers to manage, process, and communicate information. It includes development of both hardware and software.
+
+- **Cluster :** A cluster, refers to a group of machines that work together that perform a similar function. a computer cluster is controlled by a single software program that manages all the computers (also called "nodes") within the cluster. The nodes work together to complete a single task. This process is called "parallel computing" since the nodes perform operations in tandem. 
+  Computer clusters can range from two machines to hundreds of connected computers. Small clusters are often used to improve the performance of web and online gaming services by handling multiple incoming requests in parallel.
 
 
 ## `js`
