@@ -13,7 +13,7 @@
 
 - **High-level programming :** its simply a programming language that is human readable and easy to write, read and maintain. Examples of high level languages are C, C++, Java, Python, etc.
 
-- **Low-level programming :** its programming language that is machine friendly, It is tough to understand and complex to maintain, It is not commonly used now-a-days in programming. so rest 😅
+- **Low-level programming :** its programming language that is machine friendly, It is tough to understand and complex to maintain, It is not commonly used now-a-days in programming. so relax 😅
 
 - **Unit Test :** its nothing but testing your code. for example testing functions if they are working and returning values you expect.
 
