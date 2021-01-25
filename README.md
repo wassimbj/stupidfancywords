@@ -35,6 +35,7 @@
 
 - **Anonymous :** its just a function that doesn't have a name, e.g: ``` const foo = function() { ... } ```, python example ``` bar = lambda x, y : ... ```
 
+- **Reverse Engineering :** Reverse engineering is the process of uncovering principles behind a piece of hardware or software, such as its architecture and internal structure.
 ----
 
 ## `Computing`
